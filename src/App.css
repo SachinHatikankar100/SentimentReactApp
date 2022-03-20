@@ -8,6 +8,34 @@
   background-position: center;
 }
 
+.textarea-style{
+  width:60%; 
+  height:25vmin; 
+  border-radius: 25px;
+  padding:2%;
+  margin:12%;
+  border-width:5px;
+}
+.button-submit-style{
+  padding:10px;
+  margin-right: 40px;
+  background-color:green;
+  border-radius:15px;
+  width:10%;
+}
+
+.button-reset-style{
+  padding:10px;
+  margin-right: 40px;
+  background-color:red;
+  border-radius:15px;
+  width:10%;
+}
+
+.buttons-group{
+  
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
