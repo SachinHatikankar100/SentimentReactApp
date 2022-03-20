@@ -1,5 +1,11 @@
 .App {
   text-align: center;
+  background-image: url("https://img.freepik.com/free-vector/emoticons-with-empty-space-background_79603-1023.jpg?w=996&t=st=1647770286~exp=1647770886~hmac=d3f3088ba9688942b8db68caa4c98e9cd2467b0ad17a68a72c1c483187ed1239");
+  position: fixed;
+  min-width: 100%;
+  min-height:100%;
+  background-size:cover;
+  background-position: center;
 }
 
 .App-logo {
