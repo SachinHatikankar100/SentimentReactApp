@@ -11,10 +11,9 @@ class Sharedtextarea extends Component {
   render() {
     return (
       <div>
-         <textarea className="textarea-style"
+        <textarea className="textarea-style"
           name="textValue"
-          onChange={this.props.handleChange}
-          type="text" 
+          type="text"
           placeholder="Type the sentimental lyrics..."
         />
       </div>
